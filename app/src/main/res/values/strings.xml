@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">ControlMoney</string>
+    <string name="title_activity_add_debt">AddDebtActivity</string>
 </resources>
